@@ -1,12 +1,19 @@
 Here is the Link to access the video down below : 
 
+10-minutes video : 
 
-Viemo        : https://vimeo.com/656694771 
+viemo         : https://vimeo.com/656895644
 
-Google Drive : https://drive.google.com/file/d/19o6FnGyDOH0vDVld3ctYw-z-oBfZtuPI/view?usp=sharing
+Google Drive  : https://drive.google.com/file/d/1Ez3e-LDGlIi1-tAFKFbP-ioX2LAT6ESL/view?usp=sharing
+
+16-minutes video : 
+
+Viemo         : https://vimeo.com/656694771 
+
+Google Drive  : https://drive.google.com/file/d/19o6FnGyDOH0vDVld3ctYw-z-oBfZtuPI/view?usp=sharing
 
 
-As the Video size is big I can't upload it in github. Sorry!
+Note  : As the Video size is big I can't upload it in github. Sorry!
 
 
 Hint : If you are going to see the video in Viemo. You should 
